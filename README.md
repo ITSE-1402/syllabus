@@ -15,6 +15,7 @@ permalink: /
     [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ITSE-1402/summer-2017)<br />
     NOTE: Membership in the ITSE-1402 organization is required. This will be provided the first day of class.
 
+----------
 
 ## <i class="fa fa-pencil"></i> Course Description
 Intermediate Python is a project-based class in which you will learn the ins and outs of the Python 3 programming language. You will be given a variety of problems to solve with code and be have the opportunity to work them out hands-on in class with group discussions following. This course will give you the tools and experience you need to apply the Python programming language in real world scenarios upon completion.
@@ -24,6 +25,8 @@ Intermediate Python is a project-based class in which you will learn the ins and
 
 Computers are provided in the lab, however you are able to bring a laptop if you wish for in-class exercises.
 
+----------
+
 ## <i class="fa fa-vcard"></i> Prerequisites
 
 * [ITSE-2079 - Introduction to Python](http://continue.austincc.edu/schedule/courses?name=Introduction%20to%20Python) or previous programming experience in an object-oriented language.
@@ -31,6 +34,8 @@ Computers are provided in the lab, however you are able to bring a laptop if you
 * Basic understanding of HTML and CSS
 
 These prerequisites are more of a guideline as opposed to hard requirement. You can still take the class without them, but it could prove to be more difficult. The first couple classes will be a high level overview of Chapters 1-14 of [Think Python 2nd Edition](http://greenteapress.com/thinkpython2/thinkpython2.pdf). We will be completing the exercises in class as a refresher.  
+
+----------
 
 ## <i class="fa fa-font"></i> Course Grading
 Despite the fact that this class is not for credit, we will be keeping track of grades throughout the course and a final grade will be submitted at the end. Information about how grading will work is below:
