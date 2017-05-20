@@ -36,13 +36,13 @@ These prerequisites are more of a guideline as opposed to hard requirement. You 
 Despite the fact that this class is not for credit, we will be keeping track of grades throughout the course and a final grade will be submitted at the end. Information about how grading will work is below:
 <br /><br />
 ### **Grade Assignment:**
-| Letter | Percentage | 
-| :----: | :--------: |
-| A+     | Above 100% |
-| A      | 90% - 100% |
-| B      | 80% - 89%  |
-| C      | 70% - 79%  |
-| D      | 60% - 69%  |
+| Letter | Percentage |<br />
+| :----: | :--------: |<br />
+| A+     | Above 100% |<br />
+| A      | 90% - 100% |<br />
+| B      | 80% - 89%  |<br />
+| C      | 70% - 79%  |<br />
+| D      | 60% - 69%  |<br />
 | F      | Below 60%  |
 
 ### **Makeup Quiz/Exam Policy:**
