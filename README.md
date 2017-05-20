@@ -7,9 +7,9 @@ permalink: /
 
 
 * **Course:** [ITSE-1402](http://continue.austincc.edu/schedule/view?id=77409) @ [Austin Community College](http://continue.austincc.edu/)
-* **Instructor:** Phillip Ulrich [[philip@coder.education](mailto:philip@coder.education)]<br>
-* **Location:** Highland Business Center | Room: 301.8<br>
-* **Date/Time:** Jun 1 - Jul 20 | Tues/Thur | 6:00pm - 9:00pm<br>
+* **Instructor:** Phillip Ulrich [[philip@coder.education](mailto:philip@coder.education)]
+* **Location:** Highland Business Center | Room: 301.8
+* **Date/Time:** Jun 1 - Jul 20 | Tues/Thur | 6:00pm - 9:00pm
 * **Course Chat:**
     * Chat for class is available via Gitter. If you are taking the Summer 2017 course, click the link below to join.<br />  
     [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ITSE-1402/summer-2017)<br />
