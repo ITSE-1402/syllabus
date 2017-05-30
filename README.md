@@ -7,7 +7,7 @@ permalink: /
 
 
 * **Course:** [ITSE-1402](http://continue.austincc.edu/schedule/view?id=77409) @ [Austin Community College](http://continue.austincc.edu/)
-* **Instructor:** Philip Ulrich [[philip@coder.education](mailto:philip@coder.education)]
+* **Instructor:** Philip Ulrich [[philip.ulrich@austincc.edu](mailto:philip.ulrich@austincc.edu)]
 * **Location:** Highland Business Center - Room: 301.8
 * **Date/Time:** Jun 1 - Jul 20 - Tues/Thur - 6:00pm - 9:00pm
 * **Course Chat:**
@@ -58,13 +58,13 @@ Despite the fact that this class is not for credit, we will be keeping track of 
 - Makeup quizzes/exams may be different and more difficult than the missed quiz/exam.
 
 ### **Assignment Grading**
-Assignments will typically be completed in class and will simply be graded on a completion status. If you turn in a complete and running program, you will receive an A. If no assignment is turned in, then you can expect a 0 regardless of whether you were in the class it was assigned in or not.
+Assignments will typically be completed in class and will simply be graded on a completion status. If you turn in a complete and running program, you will receive an A. If no assignment is turned in, then you can expect a 0 regardless of whether you were in the class it was assigned in or not. Assignments will be worth a total of 10 points each.
 
 ### **Project Grading**
-Each project will have a grading rubric distributed along with the assignment description. This rubric will outline the possible point values for each project category and how to get the highest grade possible. Assuming that your program runs and meets all of the requirements, you should expect at least an A. 
+Each project will have a grading rubric distributed along with the assignment description. This rubric will outline the possible point values for each project category and how to get the highest grade possible. Assuming that your program runs and meets all of the requirements, you should expect at least an A. Projects will be worth 100 points each.
 
 ### **Extra Credit**
-You may have noticed that an A is the highest grade that is achievable by meeting what is expected of you. Yet there is A+ listed in the grade assignment. This is because extra credit will be available on most projects, quizzes, exams, and periodically throughout the class (in the form of optional challenge assignments). If you happen to miss an assignment or do poorly on a quiz, this will help ensure you keep your grade high. If you do well on everything and don't miss assignments, this will give you extra padding on your grade and possibly even add the coveted '+' to your A. 
+You may have noticed that an A is the highest grade that is achievable by meeting what is expected of you. Yet there is A+ listed in the grade assignment. This is because extra credit will be available on most projects, quizzes, exams, and periodically throughout the class (in the form of optional challenge assignments). If you happen to miss an assignment or do poorly on a quiz, this will help ensure you keep your grade high. If you do well on everything and don't miss assignments, this will give you extra padding on your grade and possibly even add the coveted '+' to your A. Extra credit assignments will be worth 1-10 points each based on difficulty.  
 
 ### **Remote Assignment Completion**
 If you miss a class, you will likely either miss the opportunity to turn in an assignment, miss the assignment of work, or possibly both. If you know you are going to miss a class or miss one unexpectedly, work can be turned and assignments requested via email. Work must be turned in by midnight CST of the day due or you will get no credit. No exceptions. 
@@ -86,7 +86,7 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 | Thur / 06/29 | &nbsp;- Chapter 21: Analysis of Algorithms                            |
 | Tues / 07/04 | &nbsp;- No Class                                                      |
 | Thur / 07/06 | &nbsp;- Django, Falcon, and Flask! Oh my! - An Overview of Full Stack |
-| Tues / 07/11 | &nbsp;- TBD & Final Project
-| Thur / 07/13 | &nbsp;- TBD
-| Tues / 07/18 | &nbsp;- TBD
-| Thur / 07/20 | &nbsp;- TBD
+| Tues / 07/11 | &nbsp;- TBD & Final Project                                           |
+| Thur / 07/13 | &nbsp;- TBD                                                           |
+| Tues / 07/18 | &nbsp;- TBD                                                           |
+| Thur / 07/20 | &nbsp;- TBD                                                           |
