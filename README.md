@@ -82,10 +82,10 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 | Thur / 06/15 | &nbsp;- Chapter 17: Classes and Methods                               |
 | Tues / 06/20 | &nbsp;- Chapter 18: Inheritance                                       |
 | Thur / 06/22 | &nbsp;- Chapter 19: The Goodies & Project 2                           |
-| Tues / 06/27 | &nbsp;- Chapter 20: Debugging.                                        |
-| Thur / 06/29 | &nbsp;- Chapter 21: Analysis of Algorithms                            |
+| Tues / 06/27 | &nbsp;- Chapter 20/Appendixes: Debugging / Analysis of Algorithms     |
+| Thur / 06/29 | &nbsp;- Django, Falcon, and Flask! Oh my! - An Overview of Full Stack |
 | Tues / 07/04 | &nbsp;- No Class                                                      |
-| Thur / 07/06 | &nbsp;- Django, Falcon, and Flask! Oh my! - An Overview of Full Stack |
+| Thur / 07/06 | &nbsp;- TBD                                                           |
 | Tues / 07/11 | &nbsp;- TBD & Final Project                                           |
 | Thur / 07/13 | &nbsp;- TBD                                                           |
 | Tues / 07/18 | &nbsp;- TBD                                                           |
