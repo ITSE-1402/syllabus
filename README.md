@@ -89,4 +89,4 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 | Tues / 07/11 | &nbsp;- C & C++ Extentions in Python (A Brief Overview) & Final Project |
 | Thur / 07/13 | &nbsp;- Cloud Services and Your Code - Using Python In The Cloud        |
 | Tues / 07/18 | &nbsp;- Getting a Job As a Programmer - Tips, Tricks, and Practice      |
-| Thur / 07/20 | &nbsp;- Python 2 -> 3 Migration | Discussion of Final Project           |
+| Thur / 07/20 | &nbsp;- Python 2 -> 3 Migration - Discussion of Final Project           |
