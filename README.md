@@ -8,7 +8,7 @@ permalink: /
 
 * **Course:** [ITSE-1402](http://continue.austincc.edu/schedule/view?id=77409) @ [Austin Community College](http://continue.austincc.edu/)
 * **Instructor:** Philip Ulrich [[philip.ulrich@austincc.edu](mailto:philip.ulrich@austincc.edu)]
-* **Location:** Highland Business Center - Room: 301.8
+* **Location:** Highland Business Center - Room: 209.0
 * **Date/Time:** Jun 1 - Jul 20 - Tues/Thur - 6:00pm - 9:00pm
 * **Course Chat:**
     * Chat for class is available via Gitter. If you are taking the Summer 2017 course, click the link below to join.<br />  
@@ -73,20 +73,20 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 
 ## <i class="fa fa-calendar"></i> Tentative Schedule
 
-| Day  /  Week | &nbsp;&nbsp;&nbsp;Description                                         |
-| :----------: | :-------------------------------------------------------------------- |
-| Thur / 06/01 | &nbsp;- Course Introduction / IDE / Git Overview / Python Review      |
-| Tues / 06/06 | &nbsp;- Python Review (Continued)                                     |
-| Thur / 06/08 | &nbsp;- Chapter 15: Classes and Objects & Project 1                   |
-| Tues / 06/13 | &nbsp;- Chapter 16: Classes and Functions                             |
-| Thur / 06/15 | &nbsp;- Chapter 17: Classes and Methods                               |
-| Tues / 06/20 | &nbsp;- Chapter 18: Inheritance                                       |
-| Thur / 06/22 | &nbsp;- Chapter 19: The Goodies & Project 2                           |
-| Tues / 06/27 | &nbsp;- Chapter 20/Appendixes: Debugging / Analysis of Algorithms     |
-| Thur / 06/29 | &nbsp;- Django, Falcon, and Flask! Oh my! - An Overview of Full Stack |
-| Tues / 07/04 | &nbsp;- No Class                                                      |
-| Thur / 07/06 | &nbsp;- TBD                                                           |
-| Tues / 07/11 | &nbsp;- TBD & Final Project                                           |
-| Thur / 07/13 | &nbsp;- TBD                                                           |
-| Tues / 07/18 | &nbsp;- TBD                                                           |
-| Thur / 07/20 | &nbsp;- TBD                                                           |
+| Day  /  Week | &nbsp;&nbsp;&nbsp;Description                                           |
+| :----------: | :---------------------------------------------------------------------- |
+| Thur / 06/01 | &nbsp;- Course Introduction / IDE / Git Overview / Python Review        |
+| Tues / 06/06 | &nbsp;- Python Review (Continued)                                       |
+| Thur / 06/08 | &nbsp;- Chapter 15: Classes and Objects & Project 1                     |
+| Tues / 06/13 | &nbsp;- Chapter 16/17: Classes and Functions / Classes and Methods      |
+| Thur / 06/15 | &nbsp;- Chapter 18: Inheritance                                         |
+| Tues / 06/20 | &nbsp;- Chapter 19: The Goodies & Project 2                             |
+| Thur / 06/22 | &nbsp;- Chapter 20/Appendixes: Debugging / Analysis of Algorithms       |
+| Tues / 06/27 | &nbsp;- Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   |
+| Thur / 06/29 | &nbsp;- Buidling a Django Site (cont.)                                  |
+| Tues / 07/04 | &nbsp;- No Class                                                        |
+| Thur / 07/06 | &nbsp;- Building an API in Flask and Falcon                             |
+| Tues / 07/11 | &nbsp;- C & C++ Extentions in Python (A Brief Overview) & Final Project |
+| Thur / 07/13 | &nbsp;- Cloud Services and Your Code - Using Python In The Cloud        |
+| Tues / 07/18 | &nbsp;- Getting a Job As a Programmer - Tips, Tricks, and Practice      |
+| Thur / 07/20 | &nbsp;- Python 2 -> 3 Migration | Discussion of Final Project           |
