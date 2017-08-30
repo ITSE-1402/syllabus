@@ -18,20 +18,12 @@ permalink: /
 
 <br />
 
-----------
-
-<br />
-
 ## <i class="fa fa-pencil"></i> Course Description
 Utilizing Python 3, Intermediate Python is a project-based class in which you will learn the ins and outs of the Python language beginning where the introduction class left off. This class takes a new approach to learning python and integrates with many of the same technologies you would see working in the development world such as GitHub and cloud IDEs. This course will give you the tools and experience you need to apply the Python programming language in real world scenarios upon completion.
 **Required Book:** Think Python 2nd Edition by Allen B. Downey. 
 *A copy will be provided for you free of charge and is also available for free via [eBook](http://greenteapress.com/thinkpython2/thinkpython2.pdf).*
 
 Computers are provided in the lab, however you are encouraged to use whatever device you feel most comfortable with and are more than welcome to bring a laptop/tablet/hybrid/etc if you wish.
-
-<br />
-
-----------
 
 <br />
 
@@ -42,10 +34,6 @@ Computers are provided in the lab, however you are encouraged to use whatever de
 * Basic understanding of HTML and CSS
 
 These prerequisites are more of a guideline as opposed to hard requirement. You can still take the class without them, but it could prove to be more difficult. The first couple classes will be a high level overview of Chapters 1-8 of [Think Python 2nd Edition](http://greenteapress.com/thinkpython2/thinkpython2.pdf). We will be completing the exercises in class as a refresher.  
-
-<br />
-
-----------
 
 <br />
 
@@ -94,10 +82,6 @@ If no extra credit is available by way of class material, a CodeFights Challenge
 
 ### **Missing Class**
 If you miss a class, you will likely either miss the opportunity to turn in an assignment, miss the assignment of work, or possibly both. If you know you are going to miss a class or miss one unexpectedly, work can be turned and assignments requested via email. Work must be turned in by the beginning of class on the day due or you will get no credit. No exceptions. 
-
-<br />
-
-----------
 
 <br />
 
