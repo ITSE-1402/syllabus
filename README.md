@@ -74,19 +74,20 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 
 ## <i class="fa fa-calendar"></i> Tentative Schedule
 
-| Day  /  Week | &nbsp;&nbsp;&nbsp;Description                                           | Assigned                             | Due                            | Extra Credit       |
-| :----------: | :---------------------------------------------------------------------- | :----------------------------------: | :----------------------------: | :----------------: |
-| Tues / 09/19 | &nbsp;- Course Introduction / IDE / Git Overview / Python Review        | N/A                                  | N/A                            | CF: CotD           |  
-| Thur / 09/21 | &nbsp;- Python Review Cont. / Chapter 9: Case Study: word play          | Ex: 9.1-9.6, Project 1               | CF EC                          | 9.7-9.9 - 10 pts   |
-| Tues / 09/26 | &nbsp;- Chapter 10: Lists / Chapter 11: Dictionaries                    | Ex: 10.1-10.7, 10.9,10.12, 11.1-11.5 | Chap 9 Ex/EC                   | 11.6 - 3pts        |
-| Thur / 09/28 | &nbsp;- Chapter 12: Tuples / Project 1 Work Time                        | Ex: 12.1-12.3                        | Chap 10/11 Ex/EC               | 12.4 - 3pts        | 
-| Tues / 10/03 | &nbsp;- Chapter 13: Case Study: data structure / Chapter 14: Files      | Ex: 13.1-13.9, 14.1-14.3             | Chap 12 Ex/EC / Project 1      | CF: CotD           |
-| Thur / 10/05 | &nbsp;- Chapter 15/16/17: Classes and Objects/Functions/Methods         | Ex: 15.1,16.1,16.2,17.1,17.2, Proj 2 | Chap 13/14 Ex / CF EC          | CF: CotD           |
-| Tues / 10/10 | &nbsp;- Chapter 18: Inheritance / Project 2 Work Time                   | Ex: 18.1-18.3                        | Chap 15/16/17 Ex / CF EC       | CF: CotD           | 
-| Thur / 10/12 | &nbsp;- Chapter 19: The Goodies / Project 2 Work Time                   | Ex: 19.1                             | Chap 18 Ex / CF EC             | CF: CotD           |
-| Tues / 10/17 | &nbsp;- Appendixes: Debugging / Analysis of Algorithms / 2to3 Conversion| Ex: B.1-B.2                          | Chap 19 Ex / CF EC / Project 2 | CF: CotD           | 
-| Thur / 10/19 | &nbsp;- Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | Project 3                            | Appendix Ex / CF EC            | TBD                |
-| Tues / 10/24 | &nbsp;- Building a Django Site (cont.)                                  | TBD                                  |                                | TBD                |
-| Thur / 10/26 | &nbsp;- Building an API in Flask and Falcon                             | TBD                                  |                                | TBD                |
-| Tues / 10/31 | &nbsp;- Cloud Services and Your Code - Using Python In The Cloud        | TBD                                  | Project 3                      | TBD                |
-| Thur / 11/02 | &nbsp;- Getting a Job As a Programmer - Tips, Tricks, and Practice      | N/A                                  |                                | TBD                |
+|     Date     | Description                                                     | Assigned                           | Due                            | Extra Credit       |
+| :----------: | :-------------------------------------------------------------- | :--------------------------------: | :----------------------------: | :----------------: |
+| Tues / 09/19 | Course Introduction / IDE / Git Overview / Python Review        | N/A                                | N/A                            | CF: CotD           |  
+| Thur / 09/21 | Python Review Cont. / Chapter 9: Case Study: word play          | 9.1-9.6,Proj 1                     | CF EC                          | 9.7-9.9 - 10 pts   |
+| Tues / 09/26 | Chapter 10: Lists / Chapter 11: Dictionaries                    | 10.1-10.7,10.9,10.12,11.1-11.5     | Chap 9 Ex/EC                   | 11.6 - 3pts        |
+| Thur / 09/28 | Chapter 12: Tuples / Project 1 Work Time                        | 12.1-12.3                          | Chap 10/11 Ex/EC               | 12.4 - 3pts        | 
+| Tues / 10/03 | Chapter 13: Case Study: data structure / Chapter 14: Files      | 13.1-13.9,14.1-14.3                | Chap 12 Ex/EC & Proj 1         | CF: CotD           |
+| Thur / 10/05 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | 15.1,16.1,16.2,17.1,17.2,Proj 2    | Chap 13/14 Ex & CF EC          | CF: CotD           |
+| Tues / 10/10 | Chapter 18: Inheritance / Project 2 Work Time                   | 18.1-18.3                          | Chap 15/16/17 Ex & CF EC       | CF: CotD           | 
+| Thur / 10/12 | Chapter 19: The Goodies / Project 2 Work Time                   | 19.1                               | Chap 18 Ex & CF EC             | CF: CotD           |
+| Tues / 10/17 | Appendixes: Debugging / Analysis of Algorithms / 2to3           | B.1-B.2                            | Chap 19 Ex & CF EC & Proj 2    | CF: CotD           | 
+| Thur / 10/19 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | Project 3                          | Appendix Ex & CF EC            | TBD                |
+| Tues / 10/24 | Building a Django Site (cont.)                                  | TBD                                |                                | TBD                |
+| Thur / 10/26 | Building an API in Flask and Falcon                             | TBD                                |                                | TBD                |
+| Tues / 10/31 | Cloud Services and Your Code - Using Python In The Cloud        | TBD                                | Proj 3                         | TBD                |
+| Thur / 11/02 | Getting a Job As a Programmer - Tips, Tricks, and Practice      | N/A                                |                                | TBD                |
+<br /><br /><br /><br /><br />
