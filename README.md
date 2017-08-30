@@ -6,34 +6,33 @@ permalink: /
 # <img src="assets/logo.png" alt="class logo" class="logo"/> **Intermediate Python**
 
 
-* **Course:** [ITSE-1402](http://continue.austincc.edu/schedule/view?id=77409) @ [Austin Community College](http://continue.austincc.edu/)
+* **Course:** [ITSE-1402](http://continue.austincc.edu/schedule/courses?name=Intermediate%20Python) @ [Austin Community College](http://continue.austincc.edu/)
 * **Instructor:** Philip Ulrich [[philip.ulrich@austincc.edu](mailto:philip.ulrich@austincc.edu)]
-* **Location:** Highland Business Center - Room: 209.0
-* **Date/Time:** Jun 1 - Jul 20 - Tues/Thur - 6:00pm - 9:00pm
+* **Location:** Highland Business Center - Room: 301.10
+* **Date/Time:** Sep 19 - Nov 2 - Tues/Thur - 6:00pm - 9:00pm
 * **Course Chat:**
-    * Chat for class is available via Gitter. If you are taking the Summer 2017 course, click the link below to join.<br />  
+    * Chat for class is available via Gitter. If you are taking the Fall 2017 course, click the link below to join.<br />  
     [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ITSE-1402/summer-2017)<br />
     NOTE: Membership in the ITSE-1402 organization is required. This will be provided the first day of class.
 
 ----------
 
 ## <i class="fa fa-pencil"></i> Course Description
-Intermediate Python is a project-based class in which you will learn the ins and outs of the Python 3 programming language. You will be given a variety of problems to solve with code and be have the opportunity to work them out hands-on in class with group discussions following. This course will give you the tools and experience you need to apply the Python programming language in real world scenarios upon completion.
-
+Utilizing Python 3, Intermediate Python is a project-based class in which you will learn the ins and outs of the Python language beginning where the introduction class left off. This class takes a new approach to learning python and integrates with many of the same technologies you would see working in the development world such as GitHub and cloud IDEs. This course will give you the tools and experience you need to apply the Python programming language in real world scenarios upon completion.
 **Required Book:** Think Python 2nd Edition by Allen B. Downey. 
 *A copy will be provided for you free of charge and is also available for free via [eBook](http://greenteapress.com/thinkpython2/thinkpython2.pdf).*
 
-Computers are provided in the lab, however you are able to bring a laptop if you wish for in-class exercises.
+Computers are provided in the lab, however you are encouraged to use whatever device you feel most comfortable with and are more than welcome to bring a laptop/tablet/hybrid/etc if you wish.
 
 ----------
 
 ## <i class="fa fa-vcard"></i> Prerequisites
 
-* [ITSE-2079 - Introduction to Python](http://continue.austincc.edu/schedule/courses?name=Introduction%20to%20Python) or previous programming experience in an object-oriented language.
+* [ITSE-2079 - Introduction to Python](http://continue.austincc.edu/schedule/courses?name=Introduction%20to%20Python) or novice knowledge of Python and OOO languages. 
 * Understanding of variables, data types, and basic function usage in Python 3
 * Basic understanding of HTML and CSS
 
-These prerequisites are more of a guideline as opposed to hard requirement. You can still take the class without them, but it could prove to be more difficult. The first couple classes will be a high level overview of Chapters 1-14 of [Think Python 2nd Edition](http://greenteapress.com/thinkpython2/thinkpython2.pdf). We will be completing the exercises in class as a refresher.  
+These prerequisites are more of a guideline as opposed to hard requirement. You can still take the class without them, but it could prove to be more difficult. The first couple classes will be a high level overview of Chapters 1-8 of [Think Python 2nd Edition](http://greenteapress.com/thinkpython2/thinkpython2.pdf). We will be completing the exercises in class as a refresher.  
 
 ----------
 
@@ -66,27 +65,28 @@ Each project will have a grading rubric distributed along with the assignment de
 ### **Extra Credit**
 You may have noticed that an A is the highest grade that is achievable by meeting what is expected of you. Yet there is A+ listed in the grade assignment. This is because extra credit will be available on most projects, quizzes, exams, and periodically throughout the class (in the form of optional challenge assignments). If you happen to miss an assignment or do poorly on a quiz, this will help ensure you keep your grade high. If you do well on everything and don't miss assignments, this will give you extra padding on your grade and possibly even add the coveted '+' to your A. Extra credit assignments will be worth 1-10 points each based on difficulty.  
 
+If no extra credit is available by way of class material, a CodeFights Challenge of the Day may be completed. The extra credit amount will be based on the points it's worth. Where n is equal to the number of points on code fights: extra_credit = (n/1000)*2. 
+
 ### **Remote Assignment Completion**
-If you miss a class, you will likely either miss the opportunity to turn in an assignment, miss the assignment of work, or possibly both. If you know you are going to miss a class or miss one unexpectedly, work can be turned and assignments requested via email. Work must be turned in by midnight CST of the day due or you will get no credit. No exceptions. 
+If you miss a class, you will likely either miss the opportunity to turn in an assignment, miss the assignment of work, or possibly both. If you know you are going to miss a class or miss one unexpectedly, work can be turned and assignments requested via email. Work must be turned in by the beginning of class on the day due or you will get no credit. No exceptions. 
 
 ----------
 
 ## <i class="fa fa-calendar"></i> Tentative Schedule
 
-| Day  /  Week | &nbsp;&nbsp;&nbsp;Description                                           |
-| :----------: | :---------------------------------------------------------------------- |
-| Thur / 06/01 | &nbsp;- Course Introduction / IDE / Git Overview / Python Review        |
-| Tues / 06/06 | &nbsp;- Python Review (Continued)                                       |
-| Thur / 06/08 | &nbsp;- Chapter 15: Classes and Objects & Project 1                     |
-| Tues / 06/13 | &nbsp;- Chapter 16/17: Classes and Functions / Classes and Methods      |
-| Thur / 06/15 | &nbsp;- Chapter 18: Inheritance                                         |
-| Tues / 06/20 | &nbsp;- Chapter 19: The Goodies & Project 2                             |
-| Thur / 06/22 | &nbsp;- Chapter 20/Appendixes: Debugging / Analysis of Algorithms       |
-| Tues / 06/27 | &nbsp;- Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   |
-| Thur / 06/29 | &nbsp;- Buidling a Django Site (cont.)                                  |
-| Tues / 07/04 | &nbsp;- No Class                                                        |
-| Thur / 07/06 | &nbsp;- Building an API in Flask and Falcon                             |
-| Tues / 07/11 | &nbsp;- C & C++ Extentions in Python (A Brief Overview) & Final Project |
-| Thur / 07/13 | &nbsp;- Cloud Services and Your Code - Using Python In The Cloud        |
-| Tues / 07/18 | &nbsp;- Getting a Job As a Programmer - Tips, Tricks, and Practice      |
-| Thur / 07/20 | &nbsp;- Python 2 -> 3 Migration - Discussion of Final Project           |
+| Day  /  Week | &nbsp;&nbsp;&nbsp;Description                                           | Assigned                             | Due                            | Extra Credit       |
+| :----------: | :---------------------------------------------------------------------- | :----------------------------------: | :----------------------------: | :----------------: |
+| Tues / 09/19 | &nbsp;- Course Introduction / IDE / Git Overview / Python Review        | N/A                                  | N/A                            | CF: CotD           |  
+| Thur / 09/21 | &nbsp;- Python Review Cont. / Chapter 9: Case Study: word play          | Ex: 9.1-9.6, Project 1               | CF EC                          | 9.7-9.9 - 10 pts   |
+| Tues / 09/26 | &nbsp;- Chapter 10: Lists / Chapter 11: Dictionaries                    | Ex: 10.1-10.7, 10.9,10.12, 11.1-11.5 | Chap 9 Ex/EC                   | 11.6 - 3pts        |
+| Thur / 09/28 | &nbsp;- Chapter 12: Tuples / Project 1 Work Time                        | Ex: 12.1-12.3                        | Chap 10/11 Ex/EC               | 12.4 - 3pts        | 
+| Tues / 10/03 | &nbsp;- Chapter 13: Case Study: data structure / Chapter 14: Files      | Ex: 13.1-13.9, 14.1-14.3             | Chap 12 Ex/EC / Project 1      | CF: CotD           |
+| Thur / 10/05 | &nbsp;- Chapter 15/16/17: Classes and Objects/Functions/Methods         | Ex: 15.1,16.1,16.2,17.1,17.2, Proj 2 | Chap 13/14 Ex / CF EC          | CF: CotD           |
+| Tues / 10/10 | &nbsp;- Chapter 18: Inheritance / Project 2 Work Time                   | Ex: 18.1-18.3                        | Chap 15/16/17 Ex / CF EC       | CF: CotD           | 
+| Thur / 10/12 | &nbsp;- Chapter 19: The Goodies / Project 2 Work Time                   | Ex: 19.1                             | Chap 18 Ex / CF EC             | CF: CotD           |
+| Tues / 10/17 | &nbsp;- Appendixes: Debugging / Analysis of Algorithms / 2to3 Conversion| Ex: B.1-B.2                          | Chap 19 Ex / CF EC / Project 2 | CF: CotD           | 
+| Thur / 10/19 | &nbsp;- Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | Project 3                            | Appendix Ex / CF EC            | TBD                |
+| Tues / 10/24 | &nbsp;- Building a Django Site (cont.)                                  | TBD                                  |                                | TBD                |
+| Thur / 10/26 | &nbsp;- Building an API in Flask and Falcon                             | TBD                                  |                                | TBD                |
+| Tues / 10/31 | &nbsp;- Cloud Services and Your Code - Using Python In The Cloud        | TBD                                  | Project 3                      | TBD                |
+| Thur / 11/02 | &nbsp;- Getting a Job As a Programmer - Tips, Tricks, and Practice      | N/A                                  |                                | TBD                |
