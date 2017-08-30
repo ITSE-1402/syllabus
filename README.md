@@ -98,7 +98,7 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 | Tues / 10/10 | Chapter 18: Inheritance / Project 2 Work Time                   | 18.1-18.3                          | Chap 15/16/17 Ex & CF EC       | CF: CotD           | 
 | Thur / 10/12 | Chapter 19: The Goodies / Project 2 Work Time                   | 19.1                               | Chap 18 Ex & CF EC             | CF: CotD           |
 | Tues / 10/17 | Appendixes: Debugging / Analysis of Algorithms / 2to3           | B.1-B.2                            | Chap 19 Ex & CF EC & Proj 2    | CF: CotD           | 
-| Thur / 10/19 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | Project 3                          | Appendix Ex & CF EC            | TBD                |
+| Thur / 10/19 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | Proj 3                             | Appendix Ex & CF EC            | TBD                |
 | Tues / 10/24 | Building a Django Site (cont.)                                  | TBD                                |                                | TBD                |
 | Thur / 10/26 | Building an API in Flask and Falcon                             | TBD                                |                                | TBD                |
 | Tues / 10/31 | Cloud Services and Your Code - Using Python In The Cloud        | TBD                                | Proj 3                         | TBD                |
