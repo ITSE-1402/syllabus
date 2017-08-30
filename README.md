@@ -90,4 +90,5 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 | Thur / 10/26 | Building an API in Flask and Falcon                             | TBD                                |                                | TBD                |
 | Tues / 10/31 | Cloud Services and Your Code - Using Python In The Cloud        | TBD                                | Proj 3                         | TBD                |
 | Thur / 11/02 | Getting a Job As a Programmer - Tips, Tricks, and Practice      | N/A                                |                                | TBD                |
+
 <br /><br /><br /><br /><br />
