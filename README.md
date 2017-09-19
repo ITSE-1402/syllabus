@@ -13,7 +13,7 @@ permalink: /
 * **Date/Time:** Sep 19 - Nov 2 - Tues/Thur - 6:00pm - 9:00pm
 * **Course Chat:**
     * Chat for class is available via Gitter. If you are taking the Fall 2017 course, click the link below to join.<br />  
-    [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ITSE-1402/summer-2017)<br />
+    [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ITSE-1402/fall-2017)<br />
     NOTE: Membership in the ITSE-1402 organization is required. This will be provided the first day of class.
 
 <br />
