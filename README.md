@@ -11,10 +11,6 @@ permalink: /
 * **Instructor:** Philip Ulrich [[philip.ulrich@austincc.edu](mailto:philip.ulrich@austincc.edu)]
 * **Location:** Highland Business Center - Room: 301.10
 * **Date/Time:** Sep 19 - Nov 2 - Tues/Thur - 6:00pm - 9:00pm
-* **Course Chat:**
-    * Chat for class is available via Gitter. If you are taking the Fall 2017 course, click the link below to join.<br />  
-    [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ITSE-1402/fall-2017)<br />
-    NOTE: Membership in the ITSE-1402 organization is required. This will be provided the first day of class.
 
 <br />
 
@@ -89,21 +85,21 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 
 Note: This is being restructured for current Semester Fall 2017
 
-|     Date     | Description                                                     | Assigned                           | Due                            | Extra Credit       |
-| :----------: | :-------------------------------------------------------------- | :--------------------------------: | :----------------------------: | :----------------: |
-| Tues / 09/19 | Course Introduction / IDE / Git Overview                        | N/A                                | N/A                            | CF: CotD           |  
-| Thur / 09/21 | Python Review: Chapter 1-8                                      | N/A                                | CF EC                          | CF: CotD           |
-| Tues / 09/26 | Chapter 9: Case Study: word play                                | Proj 1                             | CF EC                          | CF: CotD           |
-| Thur / 09/28 | Chapter 10: Lists                                               | 10.11, 10.12                       | CF EC                          | 10.8 - 5pts        | 
-| Tues / 10/03 | Chapter 11: Dictionaries / Project 1 Work Time                  | TBD                                | TBD                            | TBD                |
-| Thur / 10/05 | Chapter 12: Tuples                                              | TBD, Proj 2                        | TBD, Proj 1                    | TBD                |
-| Tues / 10/10 | Chapter 13: Case Study: data structure                          | TBD                                | TBD                            | TBD                | 
-| Thur / 10/12 | Chapter 14: Files / Project 2 Work Time                         | TBD                                | TBD                            | TBD                |
-| Tues / 10/17 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | TBD                                | TBD, Proj 2                    | TBD                | 
-| Thur / 10/19 | Chapter 18: Inheritance / Unit Testing                          | Proj 3                             | TBD                            | TBD                |
-| Tues / 10/24 | Chapter 19: The Goodies / Appendices                            | TBD                                | TBD                            | TBD                |
-| Thur / 10/26 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | TBD                                | TBD                            | TBD                |
-| Tues / 10/31 | Building an API in Flask and Falcon                             | TBD                                | Proj 3                         | TBD                |
-| Thur / 11/02 | Cloud Services and Your Code /  Getting a Job As a Programmer   | N/A                                | TBD                            | TBD                |
+|     Date     | Description                                                     | Assigned                           | Due                            | Extra Credit         |
+| :----------: | :-------------------------------------------------------------- | :--------------------------------: | :----------------------------: | :------------------: |
+| Tues / 09/19 | Course Introduction / IDE / Git Overview                        | N/A                                | N/A                            | CodeFights Challenge |  
+| Thur / 09/21 | Python Review: Chapter 1-8                                      | N/A                                | CF EC                          | CodeFights Challenge |
+| Tues / 09/26 | Chapter 9: Case Study: word play                                | Proj 1                             | CF EC                          | CodeFights Challenge |
+| Thur / 09/28 | Chapter 10: Lists                                               | 10.11, 10.12                       | CF EC                          | 10.8 - 5pts          | 
+| Tues / 10/03 | Chapter 11: Dictionaries / Project 1 Work Time                  | 11.5, 11.6                         | 10.11, 10.12 EC: 10.8          | CodeFights Challenge |
+| Thur / 10/05 | Chapter 12: Tuples                                              | TBD                                | TBD                            | TBD                  |
+| Tues / 10/10 | Chapter 13: Case Study: data structure                          | TBD, Proj 2                        | TBD  Proj 1                    | TBD                  | 
+| Thur / 10/12 | Chapter 14: Files / Project 2 Work Time                         | TBD                                | TBD                            | TBD                  |
+| Tues / 10/17 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | TBD                                | TBD                            | TBD                  | 
+| Thur / 10/19 | Chapter 18: Inheritance / Unit Testing                          | Proj 3                             | TBD                            | TBD                  |
+| Tues / 10/24 | Chapter 19: The Goodies / Appendices                            | TBD                                | TBD, Proj 2                    | TBD                  |
+| Thur / 10/26 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | TBD                                | TBD                            | TBD                  |
+| Tues / 10/31 | Building an API in Flask and Falcon                             | TBD                                | TBD                            | TBD                  |
+| Thur / 11/02 | Cloud Services and Your Code /  Getting a Job As a Programmer   | N/A                                | TBD                            | TBD                  |
 
 <br /><br /><br /><br /><br />
