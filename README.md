@@ -96,7 +96,7 @@ Note: This is being restructured for current Semester Fall 2017
 | Tues / 10/10 | Chapter 13: Case Study: data structure                          | TBD, Proj 2                        | TBD  Proj 1                    | TBD                  | 
 | Thur / 10/12 | Chapter 14: Files / Project 2 Work Time                         | TBD                                | TBD                            | TBD                  |
 | Tues / 10/17 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | TBD                                | TBD                            | TBD                  | 
-| Thur / 10/19 | Chapter 18: Inheritance / Unit Testing                          | Proj 3                             | TBD                            | TBD                  |
+| Thur / 10/19 | Chapter 18: Inheritance / Unit Testing                          | TBD                                | TBD                            | TBD                  |
 | Tues / 10/24 | Chapter 19: The Goodies / Appendices                            | TBD                                | TBD, Proj 2                    | TBD                  |
 | Thur / 10/26 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | TBD                                | TBD                            | TBD                  |
 | Tues / 10/31 | Building an API in Flask and Falcon                             | TBD                                | TBD                            | TBD                  |
