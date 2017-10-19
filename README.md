@@ -96,8 +96,8 @@ Note: This is being restructured for current Semester Fall 2017
 | Tues / 10/10 | Chapter 13: Case Study: data structure  / Python 2to3           | 13.8, Proj 2                       | 12.3, 12.4, Proj 1             | 2to3 a python2 module| 
 | Thur / 10/12 | Chapter 14: Files                                               | 14.3                               | 13.8                           | CodeFights Challenge |
 | Tues / 10/17 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | 16.2 / 17.2                        | 14.3                           | CodeFights Challenge | 
-| Thur / 10/19 | Chapter 18: Inheritance / Unit Testing                          | TBD                                | 16.2 / 17.2                    | TBD                  |
-| Tues / 10/24 | Chapter 19: The Goodies / Appendices                            | TBD                                | TBD                            | TBD                  |
+| Thur / 10/19 | Chapter 18: Inheritance / Unit Testing                          | 18.3                               | 16.2 / 17.2                    | CodeFights Challenge |
+| Tues / 10/24 | Chapter 19: The Goodies / Appendices                            | TBD                                | 18.3                           | CodeFights Challenge |
 | Thur / 10/26 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | TBD                                | TBD                            | TBD                  |
 | Tues / 10/31 | Building an API in Flask and Falcon                             | TBD                                | TBD                            | TBD                  |
 | Thur / 11/02 | Cloud Services and Your Code /  Getting a Job As a Programmer   | N/A                                | Proj 2, TBD                    | TBD                  |
