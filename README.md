@@ -83,8 +83,6 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 
 ## <i class="fa fa-calendar"></i> Tentative Schedule
 
-Note: This is being restructured for current Semester Fall 2017
-
 |     Date     | Description                                                     | Assigned                           | Due                            | Extra Credit         |
 | :----------: | :-------------------------------------------------------------- | :--------------------------------: | :----------------------------: | :------------------: |
 | Tues / 09/19 | Course Introduction / IDE / Git Overview                        | N/A                                | N/A                            | CodeFights Challenge |  
@@ -98,8 +96,8 @@ Note: This is being restructured for current Semester Fall 2017
 | Tues / 10/17 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | 16.2 / 17.2                        | 14.3                           | CodeFights Challenge | 
 | Thur / 10/19 | Chapter 18: Inheritance / Unit Testing                          | 18.3                               | 16.2 / 17.2                    | CodeFights Challenge |
 | Tues / 10/24 | Chapter 19: The Goodies / Appendices                            | 19.1                               | 18.3                           | CodeFights Challenge |
-| Thur / 10/26 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | TBD                                | 19.1                           | CodeFights Challenge |
-| Tues / 10/31 | Building an API in Flask and Falcon                             | TBD                                | TBD                            | TBD                  |
-| Thur / 11/02 | Cloud Services and Your Code /  Getting a Job As a Programmer   | N/A                                | Proj 2, TBD                    | N/A                  |
+| Thur / 10/26 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | N/A                                | 19.1                           | CodeFights Challenge |
+| Tues / 10/31 | Building an API in Flask and Falcon                             | N/A                                | N/A                            | CodeFights Challenge |
+| Thur / 11/02 | Cloud Services and Your Code /  Getting a Job As a Programmer   | N/A                                | Proj 2                         | N/A                  |
 
 <br /><br /><br /><br /><br />
