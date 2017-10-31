@@ -97,7 +97,7 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 | Thur / 10/19 | Chapter 18: Inheritance / Unit Testing                          | 18.3                               | 16.2 / 17.2                    | CodeFights Challenge |
 | Tues / 10/24 | Chapter 19: The Goodies / Appendices                            | 19.1                               | 18.3                           | CodeFights Challenge |
 | Thur / 10/26 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | N/A                                | 19.1                           | CodeFights Challenge |
-| Tues / 10/31 | Building an API in Flask and Falcon                             | N/A                                | N/A                            | CodeFights Challenge |
+| Tues / 10/31 | Building an API in Flask and Falcon / Project 2 Work Time       | N/A                                | N/A                            | CodeFights Challenge |
 | Thur / 11/02 | Cloud Services and Your Code /  Getting a Job As a Programmer   | N/A                                | Proj 2                         | N/A                  |
 
 <br /><br /><br /><br /><br />
