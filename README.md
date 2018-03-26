@@ -25,7 +25,7 @@ Computers are provided in the lab, however you are encouraged to use whatever de
 
 ## <i class="fa fa-vcard"></i> Prerequisites
 
-* [ITSE-2079 - Introduction to Python](http://continue.austincc.edu/schedule/courses?name=Introduction%20to%20Python) or novice knowledge of Python and OOO languages. 
+* [ITSE-2079 - Introduction to Python](http://continue.austincc.edu/schedule/courses?name=Introduction%20to%20Python) or novice knowledge of Python and OOP languages. 
 * Understanding of variables, data types, and basic function usage in Python 3
 * Basic understanding of HTML and CSS
 
