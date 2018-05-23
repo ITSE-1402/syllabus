@@ -9,15 +9,15 @@ permalink: /
 
 * **Course:** [ITSE-1402](http://continue.austincc.edu/schedule/courses?name=Intermediate%20Python) @ [Austin Community College](http://continue.austincc.edu/)
 * **Instructor:** Philip Ulrich [[philip.ulrich@austincc.edu](mailto:philip.ulrich@austincc.edu)]
-* **Location:** Highland Business Center - Room: 301.10
-* **Date/Time:** Sep 19 - Nov 2 - Tues/Thur - 6:00pm - 9:00pm
+* **Location:** Highland Business Center - Room: 209.0
+* **Date/Time:** May 29 - Jul 12 - Tues/Thur - 6:00pm - 9:00pm
 
 <br />
 
 ## <i class="fa fa-pencil"></i> Course Description
 Utilizing Python 3, Intermediate Python is a project-based class in which you will learn the ins and outs of the Python language beginning where the introduction class left off. This class takes a new approach to learning python and integrates with many of the same technologies you would see working in the development world such as GitHub and cloud IDEs. This course will give you the tools and experience you need to apply the Python programming language in real world scenarios upon completion.
 **Required Book:** Think Python 2nd Edition by Allen B. Downey. 
-*A copy will be provided for you free of charge and is also available for free via [eBook](http://greenteapress.com/thinkpython2/thinkpython2.pdf).*
+*A copy will be provided for you free of charge and is also available for free via [eBook](https://s3.amazonaws.com/itse-1402-public/thinkpython2.pdf).*
 
 Computers are provided in the lab, however you are encouraged to use whatever device you feel most comfortable with and are more than welcome to bring a laptop/tablet/hybrid/etc if you wish.
 
@@ -25,7 +25,7 @@ Computers are provided in the lab, however you are encouraged to use whatever de
 
 ## <i class="fa fa-vcard"></i> Prerequisites
 
-* [ITSE-2079 - Introduction to Python](http://continue.austincc.edu/schedule/courses?name=Introduction%20to%20Python) or novice knowledge of Python and OOO languages. 
+* [ITSE-2079 - Introduction to Python](http://continue.austincc.edu/schedule/courses?name=Introduction%20to%20Python) or novice knowledge of Python and OOP languages. 
 * Understanding of variables, data types, and basic function usage in Python 3
 * Basic understanding of HTML and CSS
 
