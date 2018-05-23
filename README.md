@@ -85,19 +85,19 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 
 |     Date     | Description                                                     | Assigned                           | Due                            | Extra Credit         |
 | :----------: | :-------------------------------------------------------------- | :--------------------------------: | :----------------------------: | :------------------: |
-| Tues / 09/19 | Course Introduction / IDE / Git Overview                        | N/A                                | N/A                            | CodeFights Challenge |  
-| Thur / 09/21 | Python Review: Chapter 1-8                                      | N/A                                | CF EC                          | CodeFights Challenge |
-| Tues / 09/26 | Chapter 9: Case Study: word play                                | Proj 1                             | CF EC                          | CodeFights Challenge |
-| Thur / 09/28 | Chapter 10: Lists                                               | 10.11, 10.12                       | CF EC                          | 10.8 - 5pts          | 
-| Tues / 10/03 | Chapter 11: Dictionaries / Project 1 Work Time                  | 11.5, 11.6                         | 10.11, 10.12 EC: 10.8          | CodeFights Challenge |
-| Thur / 10/05 | Chapter 12: Tuples                                              | 12.3, 12.4                         | 11.5, 11.6                     | CodeFights Challenge |
-| Tues / 10/10 | Chapter 13: Case Study: data structure  / Python 2to3           | 13.8, Proj 2                       | 12.3, 12.4, Proj 1             | 2to3 a python2 module| 
-| Thur / 10/12 | Chapter 14: Files                                               | 14.3                               | 13.8                           | CodeFights Challenge |
-| Tues / 10/17 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | 16.2 / 17.2                        | 14.3                           | CodeFights Challenge | 
-| Thur / 10/19 | Chapter 18: Inheritance / Unit Testing                          | 18.3                               | 16.2 / 17.2                    | CodeFights Challenge |
-| Tues / 10/24 | Chapter 19: The Goodies / Appendices                            | 19.1                               | 18.3                           | CodeFights Challenge |
-| Thur / 10/26 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | N/A                                | 19.1                           | CodeFights Challenge |
-| Tues / 10/31 | Building an API in Flask and Falcon / Project 2 Work Time       | N/A                                | N/A                            | CodeFights Challenge |
-| Thur / 11/02 | Cloud Services and Your Code /  Getting a Job As a Programmer   | N/A                                | Proj 2                         | N/A                  |
+| Tues / 05/29 | Course Introduction / IDE / Git Overview                        | N/A                                | N/A                            | CodeFights Challenge |  
+| Thur / 05/31 | Python Review: Chapter 1-8                                      | N/A                                | CF EC                          | CodeFights Challenge |
+| Tues / 06/05 | Chapter 9: Case Study: word play                                | Proj 1                             | CF EC                          | CodeFights Challenge |
+| Thur / 06/07 | Chapter 10: Lists                                               | 10.11, 10.12                       | CF EC                          | 10.8 - 5pts          | 
+| Tues / 06/12 | Chapter 11: Dictionaries / Project 1 Work Time                  | 11.5, 11.6                         | 10.11, 10.12 EC: 10.8          | CodeFights Challenge |
+| Thur / 06/14 | Chapter 12: Tuples                                              | 12.3, 12.4                         | 11.5, 11.6                     | CodeFights Challenge |
+| Tues / 06/19 | Chapter 13: Case Study: data structure  / Python 2to3           | 13.8, Proj 2                       | 12.3, 12.4, Proj 1             | 2to3 a python2 module| 
+| Thur / 06/21 | Chapter 14: Files                                               | 14.3                               | 13.8                           | CodeFights Challenge |
+| Tues / 06/26 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | 16.2 / 17.2                        | 14.3                           | CodeFights Challenge | 
+| Thur / 06/28 | Chapter 18: Inheritance / Unit Testing                          | 18.3                               | 16.2 / 17.2                    | CodeFights Challenge |
+| Tues / 07/03 | Chapter 19: The Goodies / Appendices                            | 19.1                               | 18.3                           | CodeFights Challenge |
+| Thur / 07/05 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | N/A                                | 19.1                           | CodeFights Challenge |
+| Tues / 07/10 | Building an API in Flask and Falcon / Project 2 Work Time       | N/A                                | N/A                            | CodeFights Challenge |
+| Thur / 07/12 | Cloud Services and Your Code /  Getting a Job As a Programmer   | N/A                                | Proj 2                         | N/A                  |
 
 <br /><br /><br /><br /><br />
