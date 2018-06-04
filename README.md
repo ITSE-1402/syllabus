@@ -87,8 +87,8 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 | :----------: | :-------------------------------------------------------------- | :--------------------------------: | :----------------------------: | :------------------: |
 | Tues / 05/29 | Course Introduction / IDE / Git Overview                        | N/A                                | N/A                            | CodeFights Challenge |  
 | Thur / 05/31 | Python Review: Chapter 1-8                                      | N/A                                | CF EC                          | CodeFights Challenge |
-| Tues / 06/05 | Chapter 9: Case Study: word play                                | Proj 1                             | CF EC                          | CodeFights Challenge |
-| Thur / 06/07 | Chapter 10: Lists                                               | 10.11, 10.12                       | CF EC                          | 10.8 - 5pts          | 
+| Tues / 06/05 | Chapter 9: Case Study: word play                                | 9.7-9.8, Proj 1                    | N/A                            | 9.9 - 5pts           |
+| Thur / 06/07 | Chapter 10: Lists                                               | 10.11, 10.12                       | 9.7-9.8, EC: 9.9               | 10.8 - 5pts          | 
 | Tues / 06/12 | Chapter 11: Dictionaries / Project 1 Work Time                  | 11.5, 11.6                         | 10.11, 10.12 EC: 10.8          | CodeFights Challenge |
 | Thur / 06/14 | Chapter 12: Tuples                                              | 12.3, 12.4                         | 11.5, 11.6                     | CodeFights Challenge |
 | Tues / 06/19 | Chapter 13: Case Study: data structure  / Python 2to3           | 13.8, Proj 2                       | 12.3, 12.4, Proj 1             | 2to3 a python2 module| 
