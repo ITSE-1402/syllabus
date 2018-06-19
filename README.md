@@ -91,7 +91,7 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 | Thur / 06/07 | Chapter 10: Lists                                               | 10.11, 10.12                       | 9.7-9.8, EC: 9.9               | 10.8 - 5pts          | 
 | Tues / 06/12 | Chapter 11: Dictionaries / Project 1 Work Time                  | 11.5, 11.6                         | 10.11, 10.12 EC: 10.8          | CodeFights Challenge |
 | Thur / 06/14 | Chapter 12: Tuples                                              | 12.3, 12.4                         | 11.5, 11.6                     | CodeFights Challenge |
-| Tues / 06/19 | Chapter 13: Case Study: data structure  / Python 2to3           | 13.8,                              | 12.3, 12.4                     | 2to3 a python2 module| 
+| Tues / 06/19 | Chapter 13: Case Study: data structure                          | 13.5,13.6                          | 12.3, 12.4                     | CodeFights Challenge | 
 | Thur / 06/21 | Chapter 14: Files                                               | 14.3, Proj 2                       | 13.8                           | CodeFights Challenge |
 | Tues / 06/26 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | 16.2 / 17.2                        | 14.3, Proj 1                   | CodeFights Challenge | 
 | Thur / 06/28 | Chapter 18: Inheritance / Unit Testing                          | 18.3                               | 16.2 / 17.2                    | CodeFights Challenge |
