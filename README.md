@@ -9,8 +9,8 @@ permalink: /
 
 * **Course:** [ITSE-1402](http://continue.austincc.edu/schedule/courses?name=Intermediate%20Python) @ [Austin Community College](http://continue.austincc.edu/)
 * **Instructor:** Philip Ulrich [[philip.ulrich@austincc.edu](mailto:philip.ulrich@austincc.edu)]
-* **Location:** Highland Business Center - Room: 209.0
-* **Date/Time:** May 29 - Jul 12 - Tues/Thur - 6:00pm - 9:00pm
+* **Location:** Highland Business Center - Room: 206.0
+* **Date/Time:** Jan 22 - Mar 7 - Tues/Thur - 6:00pm - 9:00pm
 
 <br />
 
@@ -85,19 +85,19 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 
 |     Date     | Description                                                     | Assigned                           | Due                            | Extra Credit         |
 | :----------: | :-------------------------------------------------------------- | :--------------------------------: | :----------------------------: | :------------------: |
-| Tues / 05/29 | Course Introduction / IDE / Git Overview                        | N/A                                | N/A                            | CodeFights Challenge |  
-| Thur / 05/31 | Python Review: Chapter 1-8                                      | N/A                                | CF EC                          | CodeFights Challenge |
-| Tues / 06/05 | Chapter 9: Case Study: word play                                | 9.7-9.8, Proj 1                    | N/A                            | 9.9 - 5pts           |
-| Thur / 06/07 | Chapter 10: Lists                                               | 10.11, 10.12                       | 9.7-9.8, EC: 9.9               | 10.8 - 5pts          | 
-| Tues / 06/12 | Chapter 11: Dictionaries / Project 1 Work Time                  | 11.5, 11.6                         | 10.11, 10.12 EC: 10.8          | CodeFights Challenge |
-| Thur / 06/14 | Chapter 12: Tuples                                              | 12.3, 12.4                         | 11.5, 11.6                     | CodeFights Challenge |
-| Tues / 06/19 | Chapter 13: Case Study: data structure                          | 13.5,13.6                          | 12.3, 12.4                     | CodeFights Challenge | 
-| Thur / 06/21 | Chapter 14: Files                                               | 14.3, Proj 2                       | 13.8                           | CodeFights Challenge |
-| Tues / 06/26 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | 16.2 / 17.2                        | 14.3, Proj 1                   | CodeFights Challenge | 
-| Thur / 06/28 | Chapter 18: Inheritance / Unit Testing                          | 18.3                               | 16.2 / 17.2                    | CodeFights Challenge |
-| Tues / 07/03 | Chapter 19: The Goodies / Appendices                            | 19.1                               | 18.3                           | CodeFights Challenge |
-| Thur / 07/05 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | N/A                                | 19.1                           | CodeFights Challenge |
-| Tues / 07/10 | Building an API in Flask and Falcon / Project 2 Work Time       | N/A                                | N/A                            | CodeFights Challenge |
-| Thur / 07/12 | Cloud Services and Your Code /  Getting a Job As a Programmer   | N/A                                | Proj 2                         | N/A                  |
+| Tues / 01/22 | Course Introduction / IDE / Git Overview                        | N/A                                | N/A                            | CodeFights Challenge |  
+| Thur / 01/24 | Python Review: Chapter 1-8                                      | N/A                                | CF EC                          | CodeFights Challenge |
+| Tues / 01/29 | Chapter 9: Case Study: word play                                | 9.7-9.8, Proj 1                    | N/A                            | 9.9 - 5pts           |
+| Thur / 01/31 | Chapter 10: Lists                                               | 10.11, 10.12                       | 9.7-9.8, EC: 9.9               | 10.8 - 5pts          | 
+| Tues / 02/05 | Chapter 11: Dictionaries / Project 1 Work Time                  | 11.5, 11.6                         | 10.11, 10.12 EC: 10.8          | CodeFights Challenge |
+| Thur / 02/07 | Chapter 12: Tuples                                              | 12.3, 12.4                         | 11.5, 11.6                     | CodeFights Challenge |
+| Tues / 02/12 | Chapter 13: Case Study: data structure                          | 13.5,13.6                          | 12.3, 12.4                     | CodeFights Challenge | 
+| Thur / 02/14 | Chapter 14: Files                                               | 14.3, Proj 2                       | 13.8                           | CodeFights Challenge |
+| Tues / 02/19 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | 16.2 / 17.2                        | 14.3, Proj 1                   | CodeFights Challenge | 
+| Thur / 02/21 | Chapter 18: Inheritance / Unit Testing                          | 18.3                               | 16.2 / 17.2                    | CodeFights Challenge |
+| Tues / 02/26 | Chapter 19: The Goodies / Appendices                            | 19.1                               | 18.3                           | CodeFights Challenge |
+| Thur / 02/28 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | N/A                                | 19.1                           | CodeFights Challenge |
+| Tues / 03/05 | Building an API in Flask and Falcon / Project 2 Work Time       | N/A                                | N/A                            | CodeFights Challenge |
+| Thur / 03/07 | Cloud Services and Your Code /  Getting a Job As a Programmer   | N/A                                | Proj 2                         | N/A                  |
 
 <br /><br /><br /><br /><br />
