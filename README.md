@@ -92,11 +92,11 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 | Tues / 02/05 | Chapter 11: Dictionaries / Project 1 Work Time                  | 11.5, 11.6                         | 10.11, 10.12 EC: 10.8          | CodeFights Challenge |
 | Thur / 02/07 | Chapter 12: Tuples                                              | 12.3, 12.4                         | 11.5, 11.6                     | CodeFights Challenge |
 | Tues / 02/12 | Chapter 13: Case Study: data structure                          | 13.5,13.6                          | 12.3, 12.4                     | CodeFights Challenge | 
-| Thur / 02/14 | Chapter 14: Files                                               | 14.3                               | 13.8, Proj 1                   | CodeFights Challenge |
-| Tues / 02/19 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | 16.2 / 17.2                        | 14.3, Proj 2                   | CodeFights Challenge | 
-| Thur / 02/21 | Chapter 18: Inheritance / Unit Testing                          | 18.3                               | 16.2 / 17.2                    | CodeFights Challenge |
-| Tues / 02/26 | Chapter 19: The Goodies / Appendices                            | 19.1                               | 18.3                           | CodeFights Challenge |
-| Thur / 02/28 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | N/A                                | 19.1                           | CodeFights Challenge |
+| Thur / 02/14 | Chapter 14: Files                                               | 14.3                               | 13.5, 13.6, Proj 1             | CodeFights Challenge |
+| Tues / 02/19 | Chapter 19: The Goodies / Appendices                            | 19.1, Proj 2                       | 14.3                           | CodeFights Challenge | 
+| Thur / 02/21 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | 16.2 / 17.2                        | 19.1                           | CodeFights Challenge |
+| Tues / 02/26 | Chapter 18: Inheritance / Unit Testing                          | 18.3                               | 16.2 / 17.2                    | CodeFights Challenge |
+| Thur / 02/28 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | N/A                                | 18.3                           | CodeFights Challenge |
 | Tues / 03/05 | Building an API in Flask and Falcon / Project 2 Work Time       | N/A                                | N/A                            | CodeFights Challenge |
 | Thur / 03/07 | Cloud Services and Your Code /  Getting a Job As a Programmer   | N/A                                | Proj 2                         | N/A                  |
 
