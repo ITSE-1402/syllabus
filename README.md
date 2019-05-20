@@ -91,8 +91,8 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 | Thur / 06/06 | Chapter 10: Lists                                               | 10.11, 10.12                       | 9.7-9.8                        | CodeSignal CotD | 
 | Tues / 06/11 | Chapter 11: Dictionaries / Project 1 Work Time                  | 11.5, 11.6                         | 10.11, 10.12                   | CodeSignal CotD |
 | Thur / 06/13 | Chapter 12: Tuples                                              | 12.3, 12.4                         | 11.5, 11.6                     | CodeSignal CotD |
-| Tues / 06/18 | Chapter 13: Case Study: data structure                          | 13.5, 13.6                         | 12.3, 12.4                     | CodeSignal CotD | 
-| Thur / 06/20 | Chapter 14: Files                                               | 14.3                               | 13.5, 13.6, Proj 1             | CodeSignal CotD |
+| Tues / 06/18 | Chapter 13: Case Study: data structure                          | 13.5, 13.6, Proj 2                 | 12.3, 12.4, Proj 1             | CodeSignal CotD | 
+| Thur / 06/20 | Chapter 14: Files                                               | 14.3                               | 13.5, 13.6                     | CodeSignal CotD |
 | Tues / 06/25 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | 16.2 / 17.2                        | 14.3                           | CodeSignal CotD | 
 | Thur / 06/27 | Chapter 18: Inheritance / Chapter 19: The Goodies               | 18.3, 19.1                         | 16.2 / 17.2                    | CodeSignal CotD |
 | Tues / 07/02 | Full Stack Development Overview & Docker Intro                  | N/A                                | 18.3, 19.1                     | CodeSignal CotD |
