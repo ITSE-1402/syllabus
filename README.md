@@ -9,8 +9,8 @@ permalink: /
 
 * **Course:** [ITSE-1402](http://continue.austincc.edu/schedule/courses?name=Intermediate%20Python) @ [Austin Community College](http://continue.austincc.edu/)
 * **Instructor:** Philip Ulrich [[philip.ulrich@austincc.edu](mailto:philip.ulrich@austincc.edu)]
-* **Location:** Highland Business Center - Room: 206.0
-* **Date/Time:** Jan 22 - Mar 7 - Tues/Thur - 6:00pm - 9:00pm
+* **Location:** Highland Business Center - Room: 217.0
+* **Date/Time:** May 28 - Jul 16 - Tues/Thur - 6:00pm - 9:00pm
 
 <br />
 
@@ -72,7 +72,7 @@ Each project will have a grading rubric distributed along with the assignment de
 ### **Extra Credit**
 You may have noticed that an A is the highest grade that is achievable by meeting what is expected of you. Yet there is A+ listed in the grade assignment. This is because extra credit will be available on most projects, quizzes, exams, and periodically throughout the class (in the form of optional challenge assignments). If you happen to miss an assignment or do poorly on a quiz, this will help ensure you keep your grade high. If you do well on everything and don't miss assignments, this will give you extra padding on your grade and possibly even add the coveted '+' to your A. Extra credit assignments will be worth 1-10 points each based on difficulty.  
 
-If no extra credit is available by way of class material, a CodeFights Challenge of the Day may be completed. The extra credit amount will be based on the points it's worth. Where n is equal to the number of points on code fights: extra_credit = (n/1000)*2. 
+Typically extra credit will just be the Challenge of the Day (CotD) from CodeSignal. I like to expose this resource to you for mutliple reasons, but mainly because when it comes to learning and retaining programming knowledge, practice is key. This resource is a contant source of problems that help with just that. Not to mention, you can learn just about any language there. :) The extra credit amount will be based on the points it's worth. Where n is equal to the number of points on code fights: extra_credit = (n/1000)*2. 
 
 <br />
 
@@ -85,19 +85,19 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 
 |     Date     | Description                                                     | Assigned                           | Due                            | Extra Credit         |
 | :----------: | :-------------------------------------------------------------- | :--------------------------------: | :----------------------------: | :------------------: |
-| Tues / 01/22 | Course Introduction / IDE / Git Overview                        | N/A                                | N/A                            | CodeFights Challenge |  
-| Thur / 01/24 | Python Review: Chapter 1-8                                      | N/A                                | CF EC                          | CodeFights Challenge |
-| Tues / 01/29 | Chapter 9: Case Study: word play                                | 9.7-9.8, Proj 1                    | N/A                            | 9.9 - 5pts           |
-| Thur / 01/31 | Chapter 10: Lists                                               | 10.11, 10.12                       | 9.7-9.8, EC: 9.9               | 10.8 - 5pts          | 
-| Tues / 02/05 | Chapter 11: Dictionaries / Project 1 Work Time                  | 11.5, 11.6                         | 10.11, 10.12 EC: 10.8          | CodeFights Challenge |
-| Thur / 02/07 | Chapter 12: Tuples                                              | 12.3, 12.4                         | 11.5, 11.6                     | CodeFights Challenge |
-| Tues / 02/12 | Chapter 13: Case Study: data structure                          | 13.5,13.6                          | 12.3, 12.4                     | CodeFights Challenge | 
-| Thur / 02/14 | Chapter 14: Files                                               | 14.3                               | 13.5, 13.6, Proj 1             | CodeFights Challenge |
-| Tues / 02/19 | Chapter 19: The Goodies / Appendices                            | 19.1, Proj 2                       | 14.3                           | CodeFights Challenge | 
-| Thur / 02/21 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | 16.2 / 17.2                        | 19.1                           | CodeFights Challenge |
-| Tues / 02/26 | Chapter 18: Inheritance / Unit Testing                          | 18.3                               | 16.2 / 17.2                    | CodeFights Challenge |
-| Thur / 02/28 | Django, Falcon, and Flask! Oh my! - An Overview of Full Stack   | N/A                                | 18.3                           | CodeFights Challenge |
-| Tues / 03/05 | Building an API in Flask and Falcon / Project 2 Work Time       | N/A                                | N/A                            | CodeFights Challenge |
-| Thur / 03/07 | Cloud Services and Your Code /  Getting a Job As a Programmer   | N/A                                | Proj 2                         | N/A                  |
+| Tues / 05/28 | Course Introduction / IDE / Git Overview                        | N/A                                | N/A                            | CodeSignal CotD |  
+| Thur / 05/30 | Python Review: CodeSignal Arcade                                | N/A                                | CF EC                          | CodeSignal CotD |
+| Tues / 06/04 | Chapter 9: Case Study: word play                                | 9.7-9.8, Proj 1                    | N/A                            | CodeSignal CotD |
+| Thur / 06/06 | Chapter 10: Lists                                               | 10.11, 10.12                       | 9.7-9.8                        | CodeSignal CotD | 
+| Tues / 06/11 | Chapter 11: Dictionaries / Project 1 Work Time                  | 11.5, 11.6                         | 10.11, 10.12                   | CodeSignal CotD |
+| Thur / 06/13 | Chapter 12: Tuples                                              | 12.3, 12.4                         | 11.5, 11.6                     | CodeSignal CotD |
+| Tues / 06/18 | Chapter 13: Case Study: data structure                          | 13.5, 13.6                         | 12.3, 12.4                     | CodeSignal CotD | 
+| Thur / 06/20 | Chapter 14: Files                                               | 14.3                               | 13.5, 13.6, Proj 1             | CodeSignal CotD |
+| Tues / 06/25 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | 16.2 / 17.2                        | 14.3                           | CodeSignal CotD | 
+| Thur / 06/27 | Chapter 18: Inheritance / Chapter 19: The Goodies               | 18.3, 19.1                         | 16.2 / 17.2                    | CodeSignal CotD |
+| Tues / 07/02 | Full Stack Development Overview & Docker Intro                  | N/A                                | 18.3, 19.1                     | CodeSignal CotD |
+| Thur / 07/09 | Django Introduction                                             | N/A                                | N/A                            | CodeSignal CotD |
+| Tues / 07/11 | Making a Resume/Portfolio in Django / Cloud Services            | N/A                                | Proj 2                         | CodeSignal CotD |
+| Thur / 07/16 | Deploying Django on AWS /  Getting a Job As a Programmer        | N/A                                | N/A                            | N/A             |
 
 <br /><br /><br /><br /><br />
