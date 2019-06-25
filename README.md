@@ -95,9 +95,9 @@ If you miss a class, you will likely either miss the opportunity to turn in an a
 | Thur / 06/20 | Chapter 14: Files                                               | 14.3                               | 13.5, 13.6                     | CodeSignal CotD |
 | Tues / 06/25 | Chapter 15/16/17: Classes and Objects/Functions/Methods         | 16.2 / 17.2                        | 14.3                           | CodeSignal CotD | 
 | Thur / 06/27 | Chapter 18: Inheritance / Chapter 19: The Goodies               | 18.3, 19.1                         | 16.2 / 17.2                    | CodeSignal CotD |
-| Tues / 07/02 | Full Stack Development Overview & Docker Intro                  | N/A                                | 18.3, 19.1                     | CodeSignal CotD |
-| Thur / 07/09 | Django Introduction                                             | N/A                                | N/A                            | CodeSignal CotD |
-| Tues / 07/11 | Making a Resume/Portfolio in Django / Cloud Services            | N/A                                | Proj 2                         | CodeSignal CotD |
-| Thur / 07/16 | Deploying Django on AWS /  Getting a Job As a Programmer        | N/A                                | N/A                            | N/A             |
+| Tues / 07/02 | Full Stack Development Overview / Project 2 Work Time           | N/A                                | 18.3, 19.1                     | CodeSignal CotD |
+| Tues / 07/09 | Django Introduction                                             | N/A                                | N/A                            | CodeSignal CotD |
+| Thur / 07/11 | Making a Resume/Portfolio in Django / Cloud Services            | N/A                                | Proj 2                         | CodeSignal CotD |
+| Tues / 07/16 | Deploying Django on AWS /  Getting a Job As a Programmer        | N/A                                | N/A                            | N/A             |
 
 <br /><br /><br /><br /><br />
